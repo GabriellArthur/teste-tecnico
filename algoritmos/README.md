@@ -38,3 +38,8 @@ Um determinado comércio possui uma base de produtos com a seguinte estrutura:
 Escreva uma classe que simule a execução de cada uma das ações, as ações podem apenas imprimir uma sáida em tela, por exemplo "Sou um cão e estou comendo".
 
 * Utilizar a seguinte stack: linguagem Java, outras ferramentas: VSCODE
+
+*** Rascunho ***
+
+![image](https://user-images.githubusercontent.com/71986202/197192193-98318bb6-2ed6-48d7-ae95-aa95a8cda64c.png)
+
